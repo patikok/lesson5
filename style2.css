@@ -16,3 +16,64 @@
 .contactinfo {
     font-size: 22px;
 }
+.mainbaner {
+    margin-top: 77px;
+    margin-left: 53px;
+    margin-right: auto;
+    display: block;
+    
+}
+.contsection {
+    margin-top: 117px;
+    margin-bottom: 69px;
+}
+.helodiv {
+    background-color: #F2F2F2;
+    width: 570px;
+    height: 225px;
+    display: inline-block;
+    margin-left: 68px;
+    margin-right: 29px;
+}
+.contacthead {
+    margin-bottom: 30px;
+}
+.boxhead {
+    color: #3D58A6;
+    font-size: 22px;
+    margin-left: 20px;
+    margin-top: 11px;
+
+}
+.artimg {
+    margin-top: 13px;
+    margin-left: 38px;
+}
+.arttxt {
+    display: inline-block;
+    width: 355px;
+    height: 145px;
+    font-size: 20px;
+    vertical-align: super;
+    margin-bottom: 24px;
+}
+.anoterdiv {
+    background-color: #F2F2F2;
+    width: 570px;
+    height: 225px;
+    display: inline-block;
+    vertical-align: bottom;
+     
+}
+.arttext {
+    color: #3D58A6;
+    font-size: 22px;
+}
+.spanclas{
+    height: 27px;
+    width: 1px;
+    background-color: #363E97;
+    margin-left: 35px;
+    margin-right: 30px;
+    display: inline-block;
+}
