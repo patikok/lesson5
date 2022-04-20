@@ -43,6 +43,7 @@
     font-size: 22px;
     margin-left: 20px;
     margin-top: 11px;
+    font-family: "BPG Banner ExtraSquare", sans-serif;
 
 }
 .artimg {
@@ -56,6 +57,7 @@
     font-size: 20px;
     vertical-align: super;
     margin-bottom: 24px;
+    font-family: 'Anton', sans-serif;
 }
 .anoterdiv {
     background-color: #F2F2F2;
@@ -68,6 +70,7 @@
 .arttext {
     color: #3D58A6;
     font-size: 22px;
+    font-family: "BPG Banner ExtraSquare", sans-serif;
 }
 .spanclas{
     height: 27px;
@@ -77,3 +80,4 @@
     margin-right: 30px;
     display: inline-block;
 }
+
